@@ -15,7 +15,7 @@ hiwin 是一款Casino类应用，提供丰富多样的游戏内容。
     <a href="https://apkadmins.cc/hiwin.apk" style="display: inline-block; padding: 10px 25px; margin: 0 10px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
         ⬇️ 下载APK
     </a>
-    <a href="" style="display: inline-block; padding: 10px 25px; margin: 0 10px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    <a href="https://ooahh.com/h5.html" style="display: inline-block; padding: 10px 25px; margin: 0 10px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
         🎮 H5游戏
     </a>
 </div>
