@@ -20,7 +20,7 @@ hiwin 是一款Casino类应用，提供丰富多样的游戏内容。
 <div class="game-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; padding: 20px;">
 
 <div class="game-card" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; text-align: center;">
-    <img src="https://apkadmins.ccNone" alt="Ceme" style="width: 80px; height: 80px; border-radius: 10px;">
+    <img src="https://apkadmins.cc/media/games/screenshots/Ceme.webp" alt="Ceme" style="width: 80px; height: 80px; border-radius: 10px;">
     <h4 style="margin: 10px 0;">Ceme</h4>
     <p style="color: #666;">Game kartu domino tradisional Indonesia, di mana pemain dapat menikmati permainan cepat dan seru.</p>
     <p style="color: #28a745;">奖池: 4117978691</p>
@@ -41,7 +41,7 @@ hiwin 是一款Casino类应用，提供丰富多样的游戏内容。
 </div>
 
 <div class="game-card" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; text-align: center;">
-    <img src="https://apkadmins.ccNone" alt="Quick Ludo" style="width: 80px; height: 80px; border-radius: 10px;">
+    <img src="https://apkadmins.cc/media/games/screenshots/Quick_Ludo.webp" alt="Quick Ludo" style="width: 80px; height: 80px; border-radius: 10px;">
     <h4 style="margin: 10px 0;">Quick Ludo</h4>
     <p style="color: #666;">Game papan cepat dengan tema Ludo, di mana pemain dapat bersaing dengan teman-teman mereka.</p>
     <p style="color: #28a745;">奖池: 9828189366</p>
@@ -104,14 +104,14 @@ hiwin 是一款Casino类应用，提供丰富多样的游戏内容。
 </div>
 
 <div class="game-card" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; text-align: center;">
-    <img src="https://apkadmins.ccNone" alt="Judi Dadu" style="width: 80px; height: 80px; border-radius: 10px;">
+    <img src="https://apkadmins.cc/media/games/screenshots/Judi_Dadu.webp" alt="Judi Dadu" style="width: 80px; height: 80px; border-radius: 10px;">
     <h4 style="margin: 10px 0;">Judi Dadu</h4>
     <p style="color: #666;">Game kasino dengan tema dadu, menawarkan kesempatan untuk menang besar dengan taruhan berbeda.</p>
     <p style="color: #28a745;">奖池: 9076743606</p>
 </div>
 
 <div class="game-card" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; text-align: center;">
-    <img src="https://apkadmins.ccNone" alt="Mines" style="width: 80px; height: 80px; border-radius: 10px;">
+    <img src="https://apkadmins.cc/media/games/screenshots/Mines.webp" alt="Mines" style="width: 80px; height: 80px; border-radius: 10px;">
     <h4 style="margin: 10px 0;">Mines</h4>
     <p style="color: #666;">Game dengan tema tambang, menawarkan kesempatan untuk menang besar dengan fitur bonus unik.</p>
     <p style="color: #28a745;">奖池: 965002419</p>
@@ -153,7 +153,7 @@ hiwin 是一款Casino类应用，提供丰富多样的游戏内容。
 </div>
 
 <div class="game-card" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; text-align: center;">
-    <img src="https://apkadmins.ccNone" alt="Binary Period" style="width: 80px; height: 80px; border-radius: 10px;">
+    <img src="https://apkadmins.cc/media/games/screenshots/Binary_Period.webp" alt="Binary Period" style="width: 80px; height: 80px; border-radius: 10px;">
     <h4 style="margin: 10px 0;">Binary Period</h4>
     <p style="color: #666;">Game dengan tema periode biner, menawarkan kesempatan untuk menang besar dengan fitur bonus unik.</p>
     <p style="color: #28a745;">奖池: 6334308392</p>
@@ -167,7 +167,7 @@ hiwin 是一款Casino类应用，提供丰富多样的游戏内容。
 </div>
 
 <div class="game-card" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; text-align: center;">
-    <img src="https://apkadmins.ccNone" alt="Fast Parity" style="width: 80px; height: 80px; border-radius: 10px;">
+    <img src="https://apkadmins.cc/media/games/screenshots/Fast_Parity.webp" alt="Fast Parity" style="width: 80px; height: 80px; border-radius: 10px;">
     <h4 style="margin: 10px 0;">Fast Parity</h4>
     <p style="color: #666;">Game dengan tema paritas cepat, menawarkan kesempatan untuk menang besar dalam waktu singkat.</p>
     <p style="color: #28a745;">奖池: 7749792562</p>
@@ -188,7 +188,7 @@ hiwin 是一款Casino类应用，提供丰富多样的游戏内容。
 </div>
 
 <div class="game-card" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; text-align: center;">
-    <img src="https://apkadmins.ccNone" alt="Plinko" style="width: 80px; height: 80px; border-radius: 10px;">
+    <img src="https://apkadmins.cc/media/games/screenshots/Plinko.webp" alt="Plinko" style="width: 80px; height: 80px; border-radius: 10px;">
     <h4 style="margin: 10px 0;">Plinko</h4>
     <p style="color: #666;">Game dengan tema plinko, menawarkan kesempatan untuk menang besar dengan fitur bonus unik.</p>
     <p style="color: #28a745;">奖池: 1203698307</p>
@@ -202,7 +202,7 @@ hiwin 是一款Casino类应用，提供丰富多样的游戏内容。
 </div>
 
 <div class="game-card" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; text-align: center;">
-    <img src="https://apkadmins.ccNone" alt="Sugar Rush 1000" style="width: 80px; height: 80px; border-radius: 10px;">
+    <img src="https://apkadmins.cc/media/games/screenshots/Sugar_Rush_1000.webp" alt="Sugar Rush 1000" style="width: 80px; height: 80px; border-radius: 10px;">
     <h4 style="margin: 10px 0;">Sugar Rush 1000</h4>
     <p style="color: #666;">Slot dengan tema permen manis, di mana pemain dapat menikmati grafis cerah dan fitur bonus menyenangkan.</p>
     <p style="color: #28a745;">奖池: 807432746</p>
@@ -237,7 +237,7 @@ hiwin 是一款Casino类应用，提供丰富多样的游戏内容。
 </div>
 
 <div class="game-card" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; text-align: center;">
-    <img src="https://apkadmins.ccNone" alt="Bandito Liar" style="width: 80px; height: 80px; border-radius: 10px;">
+    <img src="https://apkadmins.cc/media/games/screenshots/Bandito_Liar.webp" alt="Bandito Liar" style="width: 80px; height: 80px; border-radius: 10px;">
     <h4 style="margin: 10px 0;">Bandito Liar</h4>
     <p style="color: #666;">Slot dengan tema koboi liar, menawarkan banyak fitur bonus dan putaran gratis.</p>
     <p style="color: #28a745;">奖池: 4392851013</p>
@@ -279,7 +279,7 @@ hiwin 是一款Casino类应用，提供丰富多样的游戏内容。
 </div>
 
 <div class="game-card" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; text-align: center;">
-    <img src="https://apkadmins.ccNone" alt="Dead or a Wild" style="width: 80px; height: 80px; border-radius: 10px;">
+    <img src="https://apkadmins.cc/media/games/screenshots/Dead_or_a_Wild.webp" alt="Dead or a Wild" style="width: 80px; height: 80px; border-radius: 10px;">
     <h4 style="margin: 10px 0;">Dead or a Wild</h4>
     <p style="color: #666;">Slot dengan tema koboi dan petualangan liar, menawarkan banyak fitur bonus dan putaran gratis.</p>
     <p style="color: #28a745;">奖池: 3072288118</p>
@@ -300,14 +300,14 @@ hiwin 是一款Casino类应用，提供丰富多样的游戏内容。
 </div>
 
 <div class="game-card" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; text-align: center;">
-    <img src="https://apkadmins.ccNone" alt="Fortune Mouse" style="width: 80px; height: 80px; border-radius: 10px;">
+    <img src="https://apkadmins.cc/media/games/screenshots/Fortune_Mouse.webp" alt="Fortune Mouse" style="width: 80px; height: 80px; border-radius: 10px;">
     <h4 style="margin: 10px 0;">Fortune Mouse</h4>
     <p style="color: #666;">Slot dengan tema tikus keberuntungan, simbol keberuntungan dalam budaya Tionghoa.</p>
     <p style="color: #28a745;">奖池: 2256927877</p>
 </div>
 
 <div class="game-card" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; text-align: center;">
-    <img src="https://apkadmins.ccNone" alt="Fortune Ox" style="width: 80px; height: 80px; border-radius: 10px;">
+    <img src="https://apkadmins.cc/media/games/screenshots/Fortune_Ox.webp" alt="Fortune Ox" style="width: 80px; height: 80px; border-radius: 10px;">
     <h4 style="margin: 10px 0;">Fortune Ox</h4>
     <p style="color: #666;">Slot dengan tema kerbau keberuntungan, simbol keberuntungan dalam budaya Tionghoa.</p>
     <p style="color: #28a745;">奖池: 9326231442</p>
@@ -342,7 +342,7 @@ hiwin 是一款Casino类应用，提供丰富多样的游戏内容。
 </div>
 
 <div class="game-card" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; text-align: center;">
-    <img src="https://apkadmins.ccNone" alt="Gates of Olympus 1000" style="width: 80px; height: 80px; border-radius: 10px;">
+    <img src="https://apkadmins.cc/media/games/screenshots/Gates_of_Olympus_1000.webp" alt="Gates of Olympus 1000" style="width: 80px; height: 80px; border-radius: 10px;">
     <h4 style="margin: 10px 0;">Gates of Olympus 1000</h4>
     <p style="color: #666;">Slot dengan tema mitologi Yunani, di mana Zeus dan dewa-dewi lainnya memberikan kemenangan besar kepada pemain.</p>
     <p style="color: #28a745;">奖池: 5498816875</p>
@@ -496,7 +496,7 @@ hiwin 是一款Casino类应用，提供丰富多样的游戏内容。
 </div>
 
 <div class="game-card" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; text-align: center;">
-    <img src="https://apkadmins.ccNone" alt="Totem Wonders" style="width: 80px; height: 80px; border-radius: 10px;">
+    <img src="https://apkadmins.cc/media/games/screenshots/Totem_Wonders.webp" alt="Totem Wonders" style="width: 80px; height: 80px; border-radius: 10px;">
     <h4 style="margin: 10px 0;">Totem Wonders</h4>
     <p style="color: #666;">Slot dengan tema totem suku asli Amerika, menawarkan simbol mistis dan fitur bonus unik.</p>
     <p style="color: #28a745;">奖池: 9691619996</p>
