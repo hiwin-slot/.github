@@ -1,7 +1,3 @@
----
-title: hiwin - Official Organization 这是标题
----
-
 <div align="center">
 
 # hiwin - Official Organization
