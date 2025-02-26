@@ -560,13 +560,13 @@ hiwin adalah aplikasi Casino yang menyediakan berbagai konten permainan menarik.
 - 🔒 Sistem pembayaran yang aman
 - 🕒 Layanan pelanggan 24/7
 
-## ���� Informasi Aplikasi
+## 📊  Informasi Aplikasi
 
 - Versi Saat Ini: 4.0.5.8
 - Persyaratan Sistem: 5.0+
 - Ukuran Aplikasi: 25.2 MB
 - Jumlah Unduhan: 389064
-- Pembaruan Terakhir: 2024-12-22
+- Pembaruan Terakhir: 2025-02-25
 
 ## 🤝 Dukungan Teknis
 
@@ -575,6 +575,9 @@ Jika Anda memiliki pertanyaan, silakan hubungi tim dukungan kami:
 
 <div align="center">
 
-*Diperbarui pada 2024-12-22*
-
+*Diperbarui pada 2025-02-25*
+<img class="statcounter"
+src="https://c.statcounter.com/12915143/0/26214ef5/1/"
+alt="Web Analytics Made Easy - Statcounter"
+referrerPolicy="no-referrer-when-downgrade">
 </div>
